@@ -217,3 +217,4 @@ C:\Users\acer\Desktop\LeChiBaoBigSchool\BigSchool\obj\Debug\BigSchool.pdb
 C:\Users\acer\Desktop\LeChiBaoBigSchool\BigSchool\obj\Debug\BigSchool.Migrations.KhoiTaoModel.resources
 C:\Users\acer\Desktop\LeChiBaoBigSchool\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.cache
 C:\Users\acer\Desktop\LeChiBaoBigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
+C:\Users\acer\Desktop\LeChiBaoBigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources

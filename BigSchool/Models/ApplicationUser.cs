@@ -27,9 +27,6 @@ namespace BigSchool.Models
         {
         }
 
-        public static ApplicationDbContext Create()
-        {
-            return new ApplicationDbContext();
-        }
+        
     }
 }
