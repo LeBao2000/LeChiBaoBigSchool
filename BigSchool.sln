@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31410.357
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigSchool", "BigSchool\BigSchool.csproj", "{7E7E1310-CBA7-4399-B287-E7825B5CC48B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigSchool", "BigSchool\BigSchool.csproj", "{59006398-9665-4E2F-B42F-839D1E69E2B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7E7E1310-CBA7-4399-B287-E7825B5CC48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E7E1310-CBA7-4399-B287-E7825B5CC48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E7E1310-CBA7-4399-B287-E7825B5CC48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E7E1310-CBA7-4399-B287-E7825B5CC48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59006398-9665-4E2F-B42F-839D1E69E2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59006398-9665-4E2F-B42F-839D1E69E2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59006398-9665-4E2F-B42F-839D1E69E2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59006398-9665-4E2F-B42F-839D1E69E2B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F2E21E8C-415D-452F-A49C-02A338E65BFD}
 	EndGlobalSection
 EndGlobal
