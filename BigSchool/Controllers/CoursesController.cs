@@ -24,7 +24,7 @@ namespace BigSchool.Controllers
             culture.DateTimeFormat.LongTimePattern = "";
             Thread.CurrentThread.CurrentCulture = culture;
         }
-        //
+        //aa
         // GET: /Courses/Create
         public ActionResult Create()
         {
@@ -35,7 +35,7 @@ namespace BigSchool.Controllers
             };
             return View(viewModel);
         }
-        //
+        //aa123
         // POST: /Courses/Create
         [Authorize]
         [HttpPost]
